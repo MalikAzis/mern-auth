@@ -6,10 +6,10 @@
 $ npm install
 ```
 
-2. Run server
+2. Run server and client
 
 ```bash
-$ npm run server
+$ npm run dev
 ```
 
-Open <http://localhost:5000/>
+Open <http://localhost:3000/>
